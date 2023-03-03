@@ -1,0 +1,50 @@
+[
+    {
+      "id":1,
+      "title":"The Batman",
+      "releaseDate":"2022-03-04",
+      "actors":"Robert Pattinson, Zoe Kravitz",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",
+      "rating":5
+    },
+    {
+      "id":2,
+      "title":"Shrek",
+      "releaseDate":"2001-04-21",
+      "actors":"mike myers, eddie murphy, Chris Miller",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/7/7b/Shrek_%282001_animated_feature_film%29.jpg",
+      "rating":4
+    },
+    {
+      "id":3,
+      "title":"Grown Ups",
+      "releaseDate":"2010-06-25",
+      "actors":"Adam Sandler, Kevin James, ",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/f/fe/Grownupsmovie.jpg",
+      "rating":4
+    },
+    {
+      "id":4,
+      "title":"Red Notice",
+      "releaseDate":"2021-11-04",
+      "actors":"Dwayne Johnson, Ryan Reynolds, Gal Gadot",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/0/0c/Red_Notice_-_film_promotional_image.jpg",
+      "rating":3
+    },
+    {
+      "id":5,
+      "title":"Spiderman: No Way Home",
+      "releaseDate":"2021-12-17",
+      "actors":"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+      "rating":5
+    },
+    {
+      "id":6,
+      "title":"Avengers: Endgame",
+      "releaseDate":"2019-04-26",
+      "actors":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+      "rating":5
+    }
+]
